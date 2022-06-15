@@ -1,0 +1,111 @@
+{
+    "Autumn Brilliance Serviceberry": {
+        "tags": {
+            "tag1": "edible",
+            "tag2": "colorful",
+            "tag3": "nature attracting",
+            "tag4": "medicinal"
+        },
+        "images": {
+            "image1": "SH_02",
+            "image2": "SH_02_1"
+        },
+        "description": "The berries are native to North America, northen Europe and Asia. The berries are very nutritious and have long been harvested in the spring to begin the summer berry season. Their shapes vary by seasons. In Spring, the berries have white flowers, which gradually mature into a deep purple color. In summer, they are edible. They taste like a combination of blueberries and apples, and ripen at same time as cherries. In fall, the berries are blue-green foliage, orange-red. As a durable plant, Brilliance Serviceberry is friendly for children to play with.",
+        "instruction": {
+            "Space": "Plant at least 20-30 ft apart in a loose triangular pattern",
+            "Sunshine": "Provide enough sunshine with partial shade",
+            "Maintenance Needs": "Prune after flowering",
+            "Watering": "Provide a medium level of water"
+        }
+    },
+    "Windflower": {
+        "tags": {
+            "tag1": "toxic",
+            "tag2": "visually appealing",
+            "tag3": "nature attracting",
+            "tag4": "deer tolerant"
+        },
+        "images": {
+            "image1": "GR_23"
+        },
+        "description": "Windflowers are a group of perennials with colorful poppy-like flowers that flutter in the breeze. Flower color varies widely, but the blossoms are generally two to three inches in diameter with thin, delicate petals. All parts of windflowers are toxic. One would have to eat a large quantity to be in real danger, but even a small quantity will cause severe, but temporary, pain in the mouth.",
+        "instruction": {
+            "Space": "Plant at least 2'-2.5' apart",
+            "Sunshine": "Provide enough sunshine with partial shade",
+            "Maintenance Needs": "Need minimum level of maintenace",
+            "Watering": "Don't forget to water them frequently with a medium to high level of water."
+        }
+    },
+    "Yarrow": {
+        "tags": {
+            "tag1": "edible",
+            "tag2": "fragrant",
+            "tag3": "nature attracting",
+            "tag4": "medicinal"
+        },
+        "images": {
+            "image1": "GA_17"
+        },
+        "description": "Yarrow has showy flower heads composed of many tiny, tightly-packed flowers rising above clusters of ferny foliage. The flowers may be yellow, red, pink, or any shade in between. It is an aromatic herb which has many healing properties. Their leaves are bitter but edible raw or cooked, they are very nutritious and often used for teas.",
+        "instruction": {
+            "Space": "Plant at least 2-3 feet apart",
+            "Sunshine": "Provide enough sunshine",
+            "Maintenance Needs": "Must maintian their spreading",
+            "Watering": "Don't water too often. They are more suitable for the dry environment"
+        }
+    },
+    "Common Sage": {
+        "tags": {
+            "tag1": "edible",
+            "tag3": "nature attracting",
+            "tag4": "deer & rabbit resistant",
+            "tag5": "medicinal"
+        },
+        "images": {
+            "image1": "FL_18_1",
+            "image2": "FL_18"
+        },
+        "description": "Common Sage's leaves are soft and velvetty. They are extremely colorful with silver leaves and purple, blue, or pink flowers. Their leaves can be used for tea, meat dishes, vegetable and egg dishes, and stuffings. Moreover, they are used as an antiseptic. Boiled leaves were gargled to cure oral and dental problems. A tincture from the leaves was applied to wounds to prevent infection.",
+        "instruction": {
+            "Space": "Plant at least 2-4 feet apart",
+            "Sunshine": "Provide enough sunshine with partial shade",
+            "Maintenance Needs": "Need a minimum level of maintenance",
+            "Watering": "Don't water too often. They are more suitable for the dry environment"
+        }
+    },
+    "Balloon Flower": {
+        "tags": {
+            "tag1": "edible",
+            "tag2": "visually appealing",
+            "tag3": "nature attracting"
+        },
+        "images": {
+            "image1": "FL_34",
+            "image2": "FL_34_1"
+        },
+        "description": "Balloon's two-to-three-inch flowers bloom in various shades of blue, as well as pink and white. Some have prominent veining of the petals. Their leaves are thick, and green to blue-green in color. They are lance-shaped with serrated margins. With regular deadheading, plants bloom prolifically through the summer. The edible roots have long been pickled and preserved, and used in herbal remedies and dietary supplements, to provide anti-inflammatory, antitussive, and digestive benefits.",
+        "instruction": {
+            "Space": "Plant 1-1.5 feet apart",
+            "Sunshine": "Provide enough sunshine with partial shade",
+            "Maintenance Needs": "Need a minimum level of maintenance",
+            "Watering": "Don't water too often. They are more suitable for the dry or medium-dry environment"
+        }
+    },
+    "Black-Eyed Susan": {
+        "tags": {
+            "tag1": "bird friendly",
+            "tag2": "visually appealing",
+            "tag3": "deer tolerant"
+        },
+        "images": {
+            "image1": "FL_35"
+        },
+        "description": "The “black eye” is named for the dark, brown-purple centers of its daisy-like flower head. The plants can grow to over 3 feet tall, with leaves of 6 inches, stalks over 8 inches long, and flowers with a diameter of 2 to 3 inches. They are outstanding cut flowers that also do well in borders or containers. Butterflies, bees, and other insects are attracted to the flowers for the nectar.",
+        "instruction": {
+            "Space": "Plant 1-2 feet apart",
+            "Sunshine": "Provide enough sunshine",
+            "Maintenance Needs": "Need a minimum level of maintenance",
+            "Watering": "Provide a medium level of water, not too frequently"
+        }
+    }
+}

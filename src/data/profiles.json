@@ -1,0 +1,29 @@
+{
+    "family name": "Emma's Family",
+    "location": "New York",
+    "family photos": {
+        "photo 1": "family 1",
+        "photo 2": "family 2",
+        "photo 3": "family 3",
+        "photo 4": "family 4",
+        "photo 5": "family 5",
+        "photo 6": "family 6"
+    },
+    "members": {
+        "member 1": {
+            "name": "Emma",
+            "role": "mother",
+            "photo": "Emma"
+        },
+        "member 2": {
+            "name": "Lucas",
+            "role": "son",
+            "photo": "Lucas"
+        },
+        "member 3": {
+            "name": "Richard",
+            "role": "father",
+            "photo": "Richard"
+        }
+    }
+}

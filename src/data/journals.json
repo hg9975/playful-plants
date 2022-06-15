@@ -1,0 +1,78 @@
+{
+    "shown": {
+        "journal 1": {
+            "title": "Ready for the Garden Project",
+            "date": "03/12/2021",
+            "creator": "Emma",
+            "image": "journal 1",
+            "text": "The construction of our garden is completely down today! Can't wait for starting the gardening project with my son, Lucas. This is my first time of taking care of the garden. Hopefully, we can success and Lucas can enjoy. By the way, the wether is getting warmer these days. Probably, it's a good sign!",
+            "to-do": {
+                "task 1": "Create a shopping list for gardening tools",
+                "task 2": "Search fo local farms to purchase seeds",
+                "task 3": "Go shopping with Emma"
+            },
+            "checked": []
+        },
+        "journal 2": {
+            "title": "Balloon Germinates!",
+            "date": "04/15/2021",
+            "creator": "Emma",
+            "image": "journal 2",
+            "text": "Our Balloon Flowers finally germinate. I almost give up. I'm glad that Lucas persisted taking care of them. He will be really happy when he comes home. Admittedly, my son teaches me a lesson: persistance is the key to success.",
+            "to-do": {
+                "task 1": "Fertilize the garden soil",
+                "task 2": "Move Balloon from pots to the garden"
+            },
+            "checked": []
+        },
+        "journal 3": {
+            "title": "Straberry Out in Summer!",
+            "date": "06/05/2021",
+            "creator": "Lucas",
+            "image": "journal 3",
+            "text": "I'm so excited with the first straberry growing out today! Mom isn't home yet, but I can't wait for telling her this news. What will it taste like? Hopefully, it's sweet!",
+            "to-do": {
+                "task 1": "Water the straberry and windflower",
+                "task 2": "Weeding the garden"
+            },
+            "checked": []
+        },
+        "journal 4": {
+            "title": "Have fun with Eva",
+            "date": "06/10/2021",
+            "creator": "Lucas",
+            "image": "journal 4",
+            "text": "Today, I got my friend, Eva, to my house and showed my garden to her. She was impressed and surprised. She said my garden is gorgeous. She is going to ask her mom for a garden in her house. I'm so glad that she loves it. Should take more care of my plants!",
+            "to-do": {
+                "task 1": "Pick tomatos and cucumbers for mom",
+                "task 2": "Water windflower"
+            },
+            "checked": []
+        },
+        "journal 5": {
+            "title": "See a Butterfly!",
+            "date": "07/05/2021",
+            "creator": "Lucas",
+            "image": "journal 5",
+            "text": "Just saw a butterfly in the garden. It's so beautiful. Probably it's attracted by the bright color of our black-eyed susan? Can butteflies see different colors as we do? Gonna ask mom when she is back.",
+            "to-do": {
+                "task 1": "Search for more flowers and vegs to plant"
+            },
+            "checked": []
+        },
+        "journal 6": {
+            "title": "Winter is coming",
+            "date": "11/10/2021",
+            "creator": "Emma",
+            "image": "journal 6",
+            "text": "This morning, Lucas found that our common sages withered. He was so upset to see them dying. I told him that winter is coming, so it's a nature process. Hopefully, he can learn the concept of live and death.",
+            "to-do": {
+                "task 1": "Move alive plants indoor",
+                "task 2": "Cover the garden with plastic"
+            },
+            "checked": []
+        }
+    },
+    "update": {
+    }
+}
