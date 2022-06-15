@@ -47,27 +47,27 @@ The planning folder contains five files explaining our development and design pr
 ### src folder
 The src folder contains all of our prototype coding and materials.
 
-#### [assets folder](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/tree/main/src/assets)
+#### [assets folder](https://github.com/hg9975/playful-plants/tree/main/src/assets)
 *All of photos and icons used in our app are stored in this folder*
 
-#### [components folder](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/tree/main/src/components)
+#### [components folder](https://github.com/hg9975/playful-plants/tree/main/src/components)
 *All of our reusable components' codes are stored in this folder*
 
 
-#### [data folder](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/tree/main/src/data)
+#### [data folder](https://github.com/hg9975/playful-plants/tree/main/src/data)
 *All of our mock data fixtures JSON files are stored in this folder*
 
 
-#### [router folder](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/tree/main/src/router)
+#### [router folder](https://github.com/hg9975/playful-plants/tree/main/src/router)
 *Our app's router construction is shown in this folder*
 
-#### [views folder](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/tree/main/src/views)
+#### [views folder](https://github.com/hg9975/playful-plants/tree/main/src/views)
 *Our app's main pages' codes are stored in this folder*
 
-#### [App.vue](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/blob/main/src/App.vue)
+#### [App.vue](https://github.com/hg9975/playful-plants/blob/main/src/App.vue)
 *This file is our main Vue application page*
 
-#### [main.js](https://github.coecis.cornell.edu/info4340-2022sp/hot-pot-project/blob/main/src/main.js)
+#### [main.js](https://github.com/hg9975/playful-plants/blob/main/src/main.js)
 *All of imported libraries and declared global variables are shown in this file*
 
 
